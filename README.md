@@ -50,7 +50,6 @@ Azure, REST APIs, RabbitMQ, Microservices, CI/CD Pipelines
 
 ### Contact
 
-- Email: nkosinathi.ngele.dev@gmail.com  
 - Phone: 073 695 4921  
 - LinkedIn: [Nkosinathi Ngele](https://www.linkedin.com/in/nkosinathi-ngele-074909128)  
 - GitHub: [Nkosinathi-dev1](https://github.com/Nkosinathi-dev1)
